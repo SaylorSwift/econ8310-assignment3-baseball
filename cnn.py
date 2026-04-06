@@ -174,7 +174,7 @@ if __name__ == "__main__":
         print("No saved model found. Starting from scratch!")
         
     learning_rate = 1e-4
-    epochs = 20
+    epochs = 30
     optimizer = optim.Adam(model.parameters(), lr=learning_rate)
     
     print("\nStarting Training Loop...")
