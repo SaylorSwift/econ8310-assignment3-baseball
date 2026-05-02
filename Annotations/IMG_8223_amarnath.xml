@@ -1,0 +1,1142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>2157526</id>
+      <name>video_3</name>
+      <size>52</size>
+      <mode>interpolation</mode>
+      <overlap>5</overlap>
+      <bugtracker></bugtracker>
+      <created>2026-04-08 01:17:47.019489+00:00</created>
+      <updated>2026-04-08 01:39:11.465775+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>51</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>3833041</id>
+          <start>0</start>
+          <stop>51</stop>
+          <url>https://app.cvat.ai/api/tasks/2157526/dataset/export/api/jobs/3834301</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>SReinholz22-runs</username>
+        <email>sreinholz@unomaha.edu</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>baseball</name>
+          <color>#ff00cc</color>
+          <type>rectangle</type>
+          <attributes>
+            <attribute>
+              <name>moving</name>
+              <mutable>False</mutable>
+              <input_type>checkbox</input_type>
+              <default_value>false</default_value>
+              <values>false</values>
+            </attribute>
+          </attributes>
+        </label>
+      </labels>
+      <original_size>
+        <width>2160</width>
+        <height>3840</height>
+      </original_size>
+      <source>IMG_8223_amarnath.mov</source>
+    </task>
+    <dumped>2026-04-21 22:43:24.801601+00:00</dumped>
+  </meta>
+  <track id="0" label="baseball" source="manual">
+    <box frame="41" keyframe="1" outside="0" occluded="0" xtl="1645.40" ytl="0.00" xbr="1682.71" ybr="36.40" z_order="0">
+      <attribute name="moving">true</attribute>
+    </box>
+    <box frame="42" keyframe="1" outside="0" occluded="0" xtl="1651.92" ytl="96.30" xbr="1678.40" ybr="124.74" z_order="0">
+      <attribute name="moving">true</attribute>
+    </box>
+    <box frame="43" keyframe="1" outside="0" occluded="0" xtl="1649.02" ytl="180.29" xbr="1675.50" ybr="208.73" z_order="0">
+      <attribute name="moving">true</attribute>
+    </box>
+    <box frame="44" keyframe="1" outside="0" occluded="0" xtl="1646.12" ytl="265.01" xbr="1672.61" ybr="293.45" z_order="0">
+      <attribute name="moving">true</attribute>
+    </box>
+    <box frame="45" keyframe="1" outside="0" occluded="0" xtl="1645.40" ytl="341.76" xbr="1671.88" ybr="370.20" z_order="0">
+      <attribute name="moving">true</attribute>
+    </box>
+    <box frame="46" keyframe="1" outside="0" occluded="0" xtl="1642.50" ytl="428.70" xbr="1668.30" ybr="454.92" z_order="0">
+      <attribute name="moving">true</attribute>
+    </box>
+    <box frame="47" keyframe="1" outside="0" occluded="0" xtl="1639.61" ytl="510.90" xbr="1660.70" ybr="535.69" z_order="0">
+      <attribute name="moving">true</attribute>
+    </box>
+    <box frame="48" keyframe="1" outside="0" occluded="0" xtl="1639.97" ytl="591.30" xbr="1659.60" ybr="614.64" z_order="0">
+      <attribute name="moving">true</attribute>
+    </box>
+    <box frame="49" keyframe="1" outside="0" occluded="0" xtl="1636.60" ytl="666.70" xbr="1656.23" ybr="687.34" z_order="0">
+      <attribute name="moving">true</attribute>
+    </box>
+    <box frame="50" keyframe="1" outside="0" occluded="0" xtl="1635.56" ytl="737.10" xbr="1655.19" ybr="761.39" z_order="0">
+      <attribute name="moving">true</attribute>
+    </box>
+    <box frame="51" keyframe="1" outside="0" occluded="0" xtl="1630.87" ytl="816.37" xbr="1650.50" ybr="840.66" z_order="0">
+      <attribute name="moving">true</attribute>
+    </box>
+  </track>
+  <track id="1" label="baseball" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="721.80" ytl="1416.60" xbr="744.52" ybr="1433.61" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="1" keyframe="0" outside="0" occluded="0" xtl="722.79" ytl="1416.60" xbr="744.52" ybr="1433.61" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="2" keyframe="0" outside="0" occluded="0" xtl="723.78" ytl="1416.60" xbr="744.52" ybr="1433.61" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="3" keyframe="0" outside="0" occluded="0" xtl="724.76" ytl="1416.60" xbr="744.52" ybr="1433.61" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="4" keyframe="0" outside="0" occluded="0" xtl="725.75" ytl="1416.60" xbr="744.52" ybr="1433.61" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="5" keyframe="0" outside="0" occluded="0" xtl="726.74" ytl="1416.60" xbr="744.52" ybr="1433.61" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="6" keyframe="0" outside="0" occluded="0" xtl="727.73" ytl="1416.60" xbr="744.52" ybr="1433.61" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="7" keyframe="0" outside="0" occluded="0" xtl="728.72" ytl="1416.60" xbr="744.52" ybr="1433.61" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="8" keyframe="0" outside="0" occluded="0" xtl="729.71" ytl="1416.60" xbr="744.52" ybr="1433.61" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="9" keyframe="0" outside="0" occluded="0" xtl="730.69" ytl="1416.60" xbr="744.52" ybr="1433.61" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="10" keyframe="0" outside="0" occluded="0" xtl="731.68" ytl="1416.60" xbr="744.52" ybr="1433.61" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="11" keyframe="0" outside="0" occluded="0" xtl="732.67" ytl="1416.60" xbr="744.52" ybr="1433.61" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="12" keyframe="0" outside="0" occluded="0" xtl="733.66" ytl="1416.60" xbr="744.52" ybr="1433.61" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="13" keyframe="0" outside="0" occluded="0" xtl="734.65" ytl="1416.60" xbr="744.52" ybr="1433.61" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="14" keyframe="0" outside="0" occluded="0" xtl="735.64" ytl="1416.60" xbr="744.52" ybr="1433.61" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="15" keyframe="0" outside="0" occluded="0" xtl="736.62" ytl="1416.60" xbr="744.52" ybr="1433.61" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="16" keyframe="0" outside="0" occluded="0" xtl="737.61" ytl="1416.60" xbr="744.52" ybr="1433.61" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="17" keyframe="1" outside="0" occluded="0" xtl="738.60" ytl="1416.60" xbr="744.52" ybr="1433.61" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="18" keyframe="1" outside="0" occluded="1" xtl="738.60" ytl="1416.60" xbr="744.52" ybr="1433.61" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="19" keyframe="0" outside="0" occluded="1" xtl="738.60" ytl="1416.60" xbr="744.52" ybr="1433.61" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="20" keyframe="0" outside="0" occluded="1" xtl="738.60" ytl="1416.60" xbr="744.52" ybr="1433.61" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="21" keyframe="0" outside="0" occluded="1" xtl="738.60" ytl="1416.60" xbr="744.52" ybr="1433.61" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="22" keyframe="0" outside="0" occluded="1" xtl="738.60" ytl="1416.60" xbr="744.52" ybr="1433.61" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="23" keyframe="0" outside="0" occluded="1" xtl="738.60" ytl="1416.60" xbr="744.52" ybr="1433.61" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="24" keyframe="0" outside="0" occluded="1" xtl="738.60" ytl="1416.60" xbr="744.52" ybr="1433.61" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="25" keyframe="0" outside="0" occluded="1" xtl="738.60" ytl="1416.60" xbr="744.52" ybr="1433.61" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="26" keyframe="0" outside="0" occluded="1" xtl="738.60" ytl="1416.60" xbr="744.52" ybr="1433.61" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="27" keyframe="0" outside="0" occluded="1" xtl="738.60" ytl="1416.60" xbr="744.52" ybr="1433.61" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="28" keyframe="0" outside="0" occluded="1" xtl="738.60" ytl="1416.60" xbr="744.52" ybr="1433.61" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="29" keyframe="0" outside="0" occluded="1" xtl="738.60" ytl="1416.60" xbr="744.52" ybr="1433.61" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="30" keyframe="0" outside="0" occluded="1" xtl="738.60" ytl="1416.60" xbr="744.52" ybr="1433.61" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="31" keyframe="0" outside="0" occluded="1" xtl="738.60" ytl="1416.60" xbr="744.52" ybr="1433.61" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="32" keyframe="0" outside="0" occluded="1" xtl="738.60" ytl="1416.60" xbr="744.52" ybr="1433.61" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="33" keyframe="0" outside="0" occluded="1" xtl="738.60" ytl="1416.60" xbr="744.52" ybr="1433.61" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="34" keyframe="0" outside="0" occluded="1" xtl="738.60" ytl="1416.60" xbr="744.52" ybr="1433.61" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="35" keyframe="0" outside="0" occluded="1" xtl="738.60" ytl="1416.60" xbr="744.52" ybr="1433.61" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="36" keyframe="0" outside="0" occluded="1" xtl="738.60" ytl="1416.60" xbr="744.52" ybr="1433.61" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="37" keyframe="0" outside="0" occluded="1" xtl="738.60" ytl="1416.60" xbr="744.52" ybr="1433.61" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="38" keyframe="0" outside="0" occluded="1" xtl="738.60" ytl="1416.60" xbr="744.52" ybr="1433.61" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="39" keyframe="0" outside="0" occluded="1" xtl="738.60" ytl="1416.60" xbr="744.52" ybr="1433.61" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="40" keyframe="0" outside="0" occluded="1" xtl="738.60" ytl="1416.60" xbr="744.52" ybr="1433.61" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="41" keyframe="0" outside="0" occluded="1" xtl="738.60" ytl="1416.60" xbr="744.52" ybr="1433.61" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="42" keyframe="0" outside="0" occluded="1" xtl="738.60" ytl="1416.60" xbr="744.52" ybr="1433.61" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="43" keyframe="0" outside="0" occluded="1" xtl="738.60" ytl="1416.60" xbr="744.52" ybr="1433.61" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="44" keyframe="0" outside="0" occluded="1" xtl="738.60" ytl="1416.60" xbr="744.52" ybr="1433.61" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="45" keyframe="0" outside="0" occluded="1" xtl="738.60" ytl="1416.60" xbr="744.52" ybr="1433.61" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="46" keyframe="0" outside="0" occluded="1" xtl="738.60" ytl="1416.60" xbr="744.52" ybr="1433.61" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="47" keyframe="0" outside="0" occluded="1" xtl="738.60" ytl="1416.60" xbr="744.52" ybr="1433.61" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="48" keyframe="0" outside="0" occluded="1" xtl="738.60" ytl="1416.60" xbr="744.52" ybr="1433.61" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="49" keyframe="0" outside="0" occluded="1" xtl="738.60" ytl="1416.60" xbr="744.52" ybr="1433.61" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="50" keyframe="0" outside="0" occluded="1" xtl="738.60" ytl="1416.60" xbr="744.52" ybr="1433.61" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="51" keyframe="0" outside="0" occluded="1" xtl="738.60" ytl="1416.60" xbr="744.52" ybr="1433.61" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+  </track>
+  <track id="2" label="baseball" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="830.90" ytl="1436.80" xbr="849.52" ybr="1450.02" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="1" keyframe="0" outside="0" occluded="0" xtl="830.90" ytl="1436.80" xbr="849.52" ybr="1450.02" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="2" keyframe="0" outside="0" occluded="0" xtl="830.90" ytl="1436.80" xbr="849.52" ybr="1450.02" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="3" keyframe="0" outside="0" occluded="0" xtl="830.90" ytl="1436.80" xbr="849.52" ybr="1450.02" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="4" keyframe="0" outside="0" occluded="0" xtl="830.90" ytl="1436.80" xbr="849.52" ybr="1450.02" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="5" keyframe="0" outside="0" occluded="0" xtl="830.90" ytl="1436.80" xbr="849.52" ybr="1450.02" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="6" keyframe="0" outside="0" occluded="0" xtl="830.90" ytl="1436.80" xbr="849.52" ybr="1450.02" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="7" keyframe="0" outside="0" occluded="0" xtl="830.90" ytl="1436.80" xbr="849.52" ybr="1450.02" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="8" keyframe="0" outside="0" occluded="0" xtl="830.90" ytl="1436.80" xbr="849.52" ybr="1450.02" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="9" keyframe="0" outside="0" occluded="0" xtl="830.90" ytl="1436.80" xbr="849.52" ybr="1450.02" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="10" keyframe="0" outside="0" occluded="0" xtl="830.90" ytl="1436.80" xbr="849.52" ybr="1450.02" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="11" keyframe="0" outside="0" occluded="0" xtl="830.90" ytl="1436.80" xbr="849.52" ybr="1450.02" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="12" keyframe="0" outside="0" occluded="0" xtl="830.90" ytl="1436.80" xbr="849.52" ybr="1450.02" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="13" keyframe="0" outside="0" occluded="0" xtl="830.90" ytl="1436.80" xbr="849.52" ybr="1450.02" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="14" keyframe="0" outside="0" occluded="0" xtl="830.90" ytl="1436.80" xbr="849.52" ybr="1450.02" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="15" keyframe="0" outside="0" occluded="0" xtl="830.90" ytl="1436.80" xbr="849.52" ybr="1450.02" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="16" keyframe="0" outside="0" occluded="0" xtl="830.90" ytl="1436.80" xbr="849.52" ybr="1450.02" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="17" keyframe="0" outside="0" occluded="0" xtl="830.90" ytl="1436.80" xbr="849.52" ybr="1450.02" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="18" keyframe="0" outside="0" occluded="0" xtl="830.90" ytl="1436.80" xbr="849.52" ybr="1450.02" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="19" keyframe="0" outside="0" occluded="0" xtl="830.90" ytl="1436.80" xbr="849.52" ybr="1450.02" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="20" keyframe="0" outside="0" occluded="0" xtl="830.90" ytl="1436.80" xbr="849.52" ybr="1450.02" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="21" keyframe="0" outside="0" occluded="0" xtl="830.90" ytl="1436.80" xbr="849.52" ybr="1450.02" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="22" keyframe="0" outside="0" occluded="0" xtl="830.90" ytl="1436.80" xbr="849.52" ybr="1450.02" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="23" keyframe="1" outside="0" occluded="1" xtl="830.90" ytl="1436.80" xbr="849.52" ybr="1450.02" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="24" keyframe="0" outside="0" occluded="1" xtl="830.90" ytl="1436.80" xbr="849.52" ybr="1450.02" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="25" keyframe="0" outside="0" occluded="1" xtl="830.90" ytl="1436.80" xbr="849.52" ybr="1450.02" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="26" keyframe="0" outside="0" occluded="1" xtl="830.90" ytl="1436.80" xbr="849.52" ybr="1450.02" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="27" keyframe="0" outside="0" occluded="1" xtl="830.90" ytl="1436.80" xbr="849.52" ybr="1450.02" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="28" keyframe="0" outside="0" occluded="1" xtl="830.90" ytl="1436.80" xbr="849.52" ybr="1450.02" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="29" keyframe="0" outside="0" occluded="1" xtl="830.90" ytl="1436.80" xbr="849.52" ybr="1450.02" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="30" keyframe="0" outside="0" occluded="1" xtl="830.90" ytl="1436.80" xbr="849.52" ybr="1450.02" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="31" keyframe="0" outside="0" occluded="1" xtl="830.90" ytl="1436.80" xbr="849.52" ybr="1450.02" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="32" keyframe="0" outside="0" occluded="1" xtl="830.90" ytl="1436.80" xbr="849.52" ybr="1450.02" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="33" keyframe="0" outside="0" occluded="1" xtl="830.90" ytl="1436.80" xbr="849.52" ybr="1450.02" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="34" keyframe="0" outside="0" occluded="1" xtl="830.90" ytl="1436.80" xbr="849.52" ybr="1450.02" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="35" keyframe="0" outside="0" occluded="1" xtl="830.90" ytl="1436.80" xbr="849.52" ybr="1450.02" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="36" keyframe="0" outside="0" occluded="1" xtl="830.90" ytl="1436.80" xbr="849.52" ybr="1450.02" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="37" keyframe="0" outside="0" occluded="1" xtl="830.90" ytl="1436.80" xbr="849.52" ybr="1450.02" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="38" keyframe="0" outside="0" occluded="1" xtl="830.90" ytl="1436.80" xbr="849.52" ybr="1450.02" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="39" keyframe="0" outside="0" occluded="1" xtl="830.90" ytl="1436.80" xbr="849.52" ybr="1450.02" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="40" keyframe="0" outside="0" occluded="1" xtl="830.90" ytl="1436.80" xbr="849.52" ybr="1450.02" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="41" keyframe="0" outside="0" occluded="1" xtl="830.90" ytl="1436.80" xbr="849.52" ybr="1450.02" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="42" keyframe="0" outside="0" occluded="1" xtl="830.90" ytl="1436.80" xbr="849.52" ybr="1450.02" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="43" keyframe="0" outside="0" occluded="1" xtl="830.90" ytl="1436.80" xbr="849.52" ybr="1450.02" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="44" keyframe="0" outside="0" occluded="1" xtl="830.90" ytl="1436.80" xbr="849.52" ybr="1450.02" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="45" keyframe="0" outside="0" occluded="1" xtl="830.90" ytl="1436.80" xbr="849.52" ybr="1450.02" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="46" keyframe="0" outside="0" occluded="1" xtl="830.90" ytl="1436.80" xbr="849.52" ybr="1450.02" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="47" keyframe="0" outside="0" occluded="1" xtl="830.90" ytl="1436.80" xbr="849.52" ybr="1450.02" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="48" keyframe="0" outside="0" occluded="1" xtl="830.90" ytl="1436.80" xbr="849.52" ybr="1450.02" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="49" keyframe="0" outside="0" occluded="1" xtl="830.90" ytl="1436.80" xbr="849.52" ybr="1450.02" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="50" keyframe="0" outside="0" occluded="1" xtl="830.90" ytl="1436.80" xbr="849.52" ybr="1450.02" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="51" keyframe="0" outside="0" occluded="1" xtl="830.90" ytl="1436.80" xbr="849.52" ybr="1450.02" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+  </track>
+  <track id="3" label="baseball" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="843.16" ytl="1424.13" xbr="858.60" ybr="1435.49" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="1" keyframe="0" outside="0" occluded="0" xtl="843.16" ytl="1424.13" xbr="858.60" ybr="1435.49" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="2" keyframe="0" outside="0" occluded="0" xtl="843.16" ytl="1424.13" xbr="858.60" ybr="1435.49" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="3" keyframe="0" outside="0" occluded="0" xtl="843.16" ytl="1424.13" xbr="858.60" ybr="1435.49" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="4" keyframe="0" outside="0" occluded="0" xtl="843.16" ytl="1424.13" xbr="858.60" ybr="1435.49" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="5" keyframe="0" outside="0" occluded="0" xtl="843.16" ytl="1424.13" xbr="858.60" ybr="1435.49" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="6" keyframe="0" outside="0" occluded="0" xtl="843.16" ytl="1424.13" xbr="858.60" ybr="1435.49" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="7" keyframe="0" outside="0" occluded="0" xtl="843.16" ytl="1424.13" xbr="858.60" ybr="1435.49" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="8" keyframe="0" outside="0" occluded="0" xtl="843.16" ytl="1424.13" xbr="858.60" ybr="1435.49" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="9" keyframe="0" outside="0" occluded="0" xtl="843.16" ytl="1424.13" xbr="858.60" ybr="1435.49" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="10" keyframe="0" outside="0" occluded="0" xtl="843.16" ytl="1424.13" xbr="858.60" ybr="1435.49" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="11" keyframe="0" outside="0" occluded="0" xtl="843.16" ytl="1424.13" xbr="858.60" ybr="1435.49" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="12" keyframe="0" outside="0" occluded="0" xtl="843.16" ytl="1424.13" xbr="858.60" ybr="1435.49" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="13" keyframe="0" outside="0" occluded="0" xtl="843.16" ytl="1424.13" xbr="858.60" ybr="1435.49" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="14" keyframe="0" outside="0" occluded="0" xtl="843.16" ytl="1424.13" xbr="858.60" ybr="1435.49" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="15" keyframe="0" outside="0" occluded="0" xtl="843.16" ytl="1424.13" xbr="858.60" ybr="1435.49" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="16" keyframe="0" outside="0" occluded="0" xtl="843.16" ytl="1424.13" xbr="858.60" ybr="1435.49" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="17" keyframe="0" outside="0" occluded="0" xtl="843.16" ytl="1424.13" xbr="858.60" ybr="1435.49" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="18" keyframe="0" outside="0" occluded="0" xtl="843.16" ytl="1424.13" xbr="858.60" ybr="1435.49" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="19" keyframe="0" outside="0" occluded="0" xtl="843.16" ytl="1424.13" xbr="858.60" ybr="1435.49" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="20" keyframe="0" outside="0" occluded="0" xtl="843.16" ytl="1424.13" xbr="858.60" ybr="1435.49" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="21" keyframe="0" outside="0" occluded="0" xtl="843.16" ytl="1424.13" xbr="858.60" ybr="1435.49" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="22" keyframe="0" outside="0" occluded="0" xtl="843.16" ytl="1424.13" xbr="858.60" ybr="1435.49" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="23" keyframe="1" outside="0" occluded="1" xtl="843.16" ytl="1424.13" xbr="858.60" ybr="1435.49" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="24" keyframe="0" outside="0" occluded="1" xtl="843.16" ytl="1424.13" xbr="858.60" ybr="1435.49" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="25" keyframe="0" outside="0" occluded="1" xtl="843.16" ytl="1424.13" xbr="858.60" ybr="1435.49" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="26" keyframe="0" outside="0" occluded="1" xtl="843.16" ytl="1424.13" xbr="858.60" ybr="1435.49" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="27" keyframe="0" outside="0" occluded="1" xtl="843.16" ytl="1424.13" xbr="858.60" ybr="1435.49" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="28" keyframe="0" outside="0" occluded="1" xtl="843.16" ytl="1424.13" xbr="858.60" ybr="1435.49" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="29" keyframe="0" outside="0" occluded="1" xtl="843.16" ytl="1424.13" xbr="858.60" ybr="1435.49" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="30" keyframe="0" outside="0" occluded="1" xtl="843.16" ytl="1424.13" xbr="858.60" ybr="1435.49" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="31" keyframe="0" outside="0" occluded="1" xtl="843.16" ytl="1424.13" xbr="858.60" ybr="1435.49" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="32" keyframe="0" outside="0" occluded="1" xtl="843.16" ytl="1424.13" xbr="858.60" ybr="1435.49" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="33" keyframe="0" outside="0" occluded="1" xtl="843.16" ytl="1424.13" xbr="858.60" ybr="1435.49" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="34" keyframe="0" outside="0" occluded="1" xtl="843.16" ytl="1424.13" xbr="858.60" ybr="1435.49" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="35" keyframe="0" outside="0" occluded="1" xtl="843.16" ytl="1424.13" xbr="858.60" ybr="1435.49" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="36" keyframe="0" outside="0" occluded="1" xtl="843.16" ytl="1424.13" xbr="858.60" ybr="1435.49" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="37" keyframe="0" outside="0" occluded="1" xtl="843.16" ytl="1424.13" xbr="858.60" ybr="1435.49" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="38" keyframe="0" outside="0" occluded="1" xtl="843.16" ytl="1424.13" xbr="858.60" ybr="1435.49" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="39" keyframe="0" outside="0" occluded="1" xtl="843.16" ytl="1424.13" xbr="858.60" ybr="1435.49" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="40" keyframe="0" outside="0" occluded="1" xtl="843.16" ytl="1424.13" xbr="858.60" ybr="1435.49" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="41" keyframe="0" outside="0" occluded="1" xtl="843.16" ytl="1424.13" xbr="858.60" ybr="1435.49" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="42" keyframe="0" outside="0" occluded="1" xtl="843.16" ytl="1424.13" xbr="858.60" ybr="1435.49" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="43" keyframe="0" outside="0" occluded="1" xtl="843.16" ytl="1424.13" xbr="858.60" ybr="1435.49" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="44" keyframe="0" outside="0" occluded="1" xtl="843.16" ytl="1424.13" xbr="858.60" ybr="1435.49" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="45" keyframe="0" outside="0" occluded="1" xtl="843.16" ytl="1424.13" xbr="858.60" ybr="1435.49" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="46" keyframe="0" outside="0" occluded="1" xtl="843.16" ytl="1424.13" xbr="858.60" ybr="1435.49" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="47" keyframe="0" outside="0" occluded="1" xtl="843.16" ytl="1424.13" xbr="858.60" ybr="1435.49" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="48" keyframe="0" outside="0" occluded="1" xtl="843.16" ytl="1424.13" xbr="858.60" ybr="1435.49" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="49" keyframe="0" outside="0" occluded="1" xtl="843.16" ytl="1424.13" xbr="858.60" ybr="1435.49" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="50" keyframe="0" outside="0" occluded="1" xtl="843.16" ytl="1424.13" xbr="858.60" ybr="1435.49" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="51" keyframe="0" outside="0" occluded="1" xtl="843.16" ytl="1424.13" xbr="858.60" ybr="1435.49" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+  </track>
+  <track id="4" label="baseball" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="1142.17" ytl="1535.46" xbr="1168.92" ybr="1556.86" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="1" keyframe="0" outside="0" occluded="0" xtl="1142.17" ytl="1535.46" xbr="1168.92" ybr="1556.86" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="2" keyframe="0" outside="0" occluded="0" xtl="1142.17" ytl="1535.46" xbr="1168.92" ybr="1556.86" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="3" keyframe="0" outside="0" occluded="0" xtl="1142.17" ytl="1535.46" xbr="1168.92" ybr="1556.86" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="4" keyframe="0" outside="0" occluded="0" xtl="1142.17" ytl="1535.46" xbr="1168.92" ybr="1556.86" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="5" keyframe="0" outside="0" occluded="0" xtl="1142.17" ytl="1535.46" xbr="1168.92" ybr="1556.86" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="6" keyframe="0" outside="0" occluded="0" xtl="1142.17" ytl="1535.46" xbr="1168.92" ybr="1556.86" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="7" keyframe="0" outside="0" occluded="0" xtl="1142.17" ytl="1535.46" xbr="1168.92" ybr="1556.86" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="8" keyframe="0" outside="0" occluded="0" xtl="1142.17" ytl="1535.46" xbr="1168.92" ybr="1556.86" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="9" keyframe="0" outside="0" occluded="0" xtl="1142.17" ytl="1535.46" xbr="1168.92" ybr="1556.86" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="10" keyframe="0" outside="0" occluded="0" xtl="1142.17" ytl="1535.46" xbr="1168.92" ybr="1556.86" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="11" keyframe="0" outside="0" occluded="0" xtl="1142.17" ytl="1535.46" xbr="1168.92" ybr="1556.86" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="12" keyframe="0" outside="0" occluded="0" xtl="1142.17" ytl="1535.46" xbr="1168.92" ybr="1556.86" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="13" keyframe="0" outside="0" occluded="0" xtl="1142.17" ytl="1535.46" xbr="1168.92" ybr="1556.86" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="14" keyframe="0" outside="0" occluded="0" xtl="1142.17" ytl="1535.46" xbr="1168.92" ybr="1556.86" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="15" keyframe="0" outside="0" occluded="0" xtl="1142.17" ytl="1535.46" xbr="1168.92" ybr="1556.86" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="16" keyframe="0" outside="0" occluded="0" xtl="1142.17" ytl="1535.46" xbr="1168.92" ybr="1556.86" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="17" keyframe="0" outside="0" occluded="0" xtl="1142.17" ytl="1535.46" xbr="1168.92" ybr="1556.86" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="18" keyframe="0" outside="0" occluded="0" xtl="1142.17" ytl="1535.46" xbr="1168.92" ybr="1556.86" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="19" keyframe="0" outside="0" occluded="0" xtl="1142.17" ytl="1535.46" xbr="1168.92" ybr="1556.86" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="20" keyframe="0" outside="0" occluded="0" xtl="1142.17" ytl="1535.46" xbr="1168.92" ybr="1556.86" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="21" keyframe="0" outside="0" occluded="0" xtl="1142.17" ytl="1535.46" xbr="1168.92" ybr="1556.86" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="22" keyframe="0" outside="0" occluded="0" xtl="1142.17" ytl="1535.46" xbr="1168.92" ybr="1556.86" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="23" keyframe="0" outside="0" occluded="0" xtl="1142.17" ytl="1535.46" xbr="1168.92" ybr="1556.86" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="24" keyframe="0" outside="0" occluded="0" xtl="1142.17" ytl="1535.46" xbr="1168.92" ybr="1556.86" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="25" keyframe="0" outside="0" occluded="0" xtl="1142.17" ytl="1535.46" xbr="1168.92" ybr="1556.86" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="26" keyframe="0" outside="0" occluded="0" xtl="1142.17" ytl="1535.46" xbr="1168.92" ybr="1556.86" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="27" keyframe="0" outside="0" occluded="0" xtl="1142.17" ytl="1535.46" xbr="1168.92" ybr="1556.86" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="28" keyframe="0" outside="0" occluded="0" xtl="1142.17" ytl="1535.46" xbr="1168.92" ybr="1556.86" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="29" keyframe="0" outside="0" occluded="0" xtl="1142.17" ytl="1535.46" xbr="1168.92" ybr="1556.86" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="30" keyframe="0" outside="0" occluded="0" xtl="1142.17" ytl="1535.46" xbr="1168.92" ybr="1556.86" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="31" keyframe="0" outside="0" occluded="0" xtl="1142.17" ytl="1535.46" xbr="1168.92" ybr="1556.86" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="32" keyframe="0" outside="0" occluded="0" xtl="1142.17" ytl="1535.46" xbr="1168.92" ybr="1556.86" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="33" keyframe="0" outside="0" occluded="0" xtl="1142.17" ytl="1535.46" xbr="1168.92" ybr="1556.86" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="34" keyframe="0" outside="0" occluded="0" xtl="1142.17" ytl="1535.46" xbr="1168.92" ybr="1556.86" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="35" keyframe="0" outside="0" occluded="0" xtl="1142.17" ytl="1535.46" xbr="1168.92" ybr="1556.86" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="36" keyframe="0" outside="0" occluded="0" xtl="1142.17" ytl="1535.46" xbr="1168.92" ybr="1556.86" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="37" keyframe="0" outside="0" occluded="0" xtl="1142.17" ytl="1535.46" xbr="1168.92" ybr="1556.86" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="38" keyframe="0" outside="0" occluded="0" xtl="1142.17" ytl="1535.46" xbr="1168.92" ybr="1556.86" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="39" keyframe="0" outside="0" occluded="0" xtl="1142.17" ytl="1535.46" xbr="1168.92" ybr="1556.86" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="40" keyframe="0" outside="0" occluded="0" xtl="1142.17" ytl="1535.46" xbr="1168.92" ybr="1556.86" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="41" keyframe="0" outside="0" occluded="0" xtl="1142.17" ytl="1535.46" xbr="1168.92" ybr="1556.86" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="42" keyframe="0" outside="0" occluded="0" xtl="1142.17" ytl="1535.46" xbr="1168.92" ybr="1556.86" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="43" keyframe="0" outside="0" occluded="0" xtl="1142.17" ytl="1535.46" xbr="1168.92" ybr="1556.86" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="44" keyframe="0" outside="0" occluded="0" xtl="1142.17" ytl="1535.46" xbr="1168.92" ybr="1556.86" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="45" keyframe="0" outside="0" occluded="0" xtl="1142.17" ytl="1535.46" xbr="1168.92" ybr="1556.86" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="46" keyframe="0" outside="0" occluded="0" xtl="1142.17" ytl="1535.46" xbr="1168.92" ybr="1556.86" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="47" keyframe="0" outside="0" occluded="0" xtl="1142.17" ytl="1535.46" xbr="1168.92" ybr="1556.86" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="48" keyframe="0" outside="0" occluded="0" xtl="1142.17" ytl="1535.46" xbr="1168.92" ybr="1556.86" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="49" keyframe="0" outside="0" occluded="0" xtl="1142.17" ytl="1535.46" xbr="1168.92" ybr="1556.86" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="50" keyframe="0" outside="0" occluded="0" xtl="1142.17" ytl="1535.46" xbr="1168.92" ybr="1556.86" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="51" keyframe="0" outside="0" occluded="0" xtl="1142.17" ytl="1535.46" xbr="1168.92" ybr="1556.86" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+  </track>
+  <track id="5" label="baseball" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="1764.27" ytl="1935.28" xbr="1811.80" ybr="1978.90" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="1" keyframe="0" outside="0" occluded="0" xtl="1764.27" ytl="1935.28" xbr="1811.80" ybr="1978.90" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="2" keyframe="0" outside="0" occluded="0" xtl="1764.27" ytl="1935.28" xbr="1811.80" ybr="1978.90" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="3" keyframe="0" outside="0" occluded="0" xtl="1764.27" ytl="1935.28" xbr="1811.80" ybr="1978.90" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="4" keyframe="0" outside="0" occluded="0" xtl="1764.27" ytl="1935.28" xbr="1811.80" ybr="1978.90" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="5" keyframe="0" outside="0" occluded="0" xtl="1764.27" ytl="1935.28" xbr="1811.80" ybr="1978.90" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="6" keyframe="0" outside="0" occluded="0" xtl="1764.27" ytl="1935.28" xbr="1811.80" ybr="1978.90" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="7" keyframe="0" outside="0" occluded="0" xtl="1764.27" ytl="1935.28" xbr="1811.80" ybr="1978.90" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="8" keyframe="0" outside="0" occluded="0" xtl="1764.27" ytl="1935.28" xbr="1811.80" ybr="1978.90" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="9" keyframe="0" outside="0" occluded="0" xtl="1764.27" ytl="1935.28" xbr="1811.80" ybr="1978.90" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="10" keyframe="0" outside="0" occluded="0" xtl="1764.27" ytl="1935.28" xbr="1811.80" ybr="1978.90" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="11" keyframe="0" outside="0" occluded="0" xtl="1764.27" ytl="1935.28" xbr="1811.80" ybr="1978.90" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="12" keyframe="0" outside="0" occluded="0" xtl="1764.27" ytl="1935.28" xbr="1811.80" ybr="1978.90" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="13" keyframe="0" outside="0" occluded="0" xtl="1764.27" ytl="1935.28" xbr="1811.80" ybr="1978.90" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="14" keyframe="0" outside="0" occluded="0" xtl="1764.27" ytl="1935.28" xbr="1811.80" ybr="1978.90" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="15" keyframe="0" outside="0" occluded="0" xtl="1764.27" ytl="1935.28" xbr="1811.80" ybr="1978.90" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="16" keyframe="0" outside="0" occluded="0" xtl="1764.27" ytl="1935.28" xbr="1811.80" ybr="1978.90" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="17" keyframe="0" outside="0" occluded="0" xtl="1764.27" ytl="1935.28" xbr="1811.80" ybr="1978.90" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="18" keyframe="0" outside="0" occluded="0" xtl="1764.27" ytl="1935.28" xbr="1811.80" ybr="1978.90" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="19" keyframe="0" outside="0" occluded="0" xtl="1764.27" ytl="1935.28" xbr="1811.80" ybr="1978.90" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="20" keyframe="0" outside="0" occluded="0" xtl="1764.27" ytl="1935.28" xbr="1811.80" ybr="1978.90" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="21" keyframe="0" outside="0" occluded="0" xtl="1764.27" ytl="1935.28" xbr="1811.80" ybr="1978.90" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="22" keyframe="0" outside="0" occluded="0" xtl="1764.27" ytl="1935.28" xbr="1811.80" ybr="1978.90" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="23" keyframe="0" outside="0" occluded="0" xtl="1764.27" ytl="1935.28" xbr="1811.80" ybr="1978.90" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="24" keyframe="0" outside="0" occluded="0" xtl="1764.27" ytl="1935.28" xbr="1811.80" ybr="1978.90" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="25" keyframe="0" outside="0" occluded="0" xtl="1764.27" ytl="1935.28" xbr="1811.80" ybr="1978.90" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="26" keyframe="0" outside="0" occluded="0" xtl="1764.27" ytl="1935.28" xbr="1811.80" ybr="1978.90" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="27" keyframe="0" outside="0" occluded="0" xtl="1764.27" ytl="1935.28" xbr="1811.80" ybr="1978.90" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="28" keyframe="0" outside="0" occluded="0" xtl="1764.27" ytl="1935.28" xbr="1811.80" ybr="1978.90" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="29" keyframe="0" outside="0" occluded="0" xtl="1764.27" ytl="1935.28" xbr="1811.80" ybr="1978.90" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="30" keyframe="0" outside="0" occluded="0" xtl="1764.27" ytl="1935.28" xbr="1811.80" ybr="1978.90" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="31" keyframe="0" outside="0" occluded="0" xtl="1764.27" ytl="1935.28" xbr="1811.80" ybr="1978.90" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="32" keyframe="0" outside="0" occluded="0" xtl="1764.27" ytl="1935.28" xbr="1811.80" ybr="1978.90" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="33" keyframe="0" outside="0" occluded="0" xtl="1764.27" ytl="1935.28" xbr="1811.80" ybr="1978.90" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="34" keyframe="0" outside="0" occluded="0" xtl="1764.27" ytl="1935.28" xbr="1811.80" ybr="1978.90" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="35" keyframe="0" outside="0" occluded="0" xtl="1764.27" ytl="1935.28" xbr="1811.80" ybr="1978.90" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="36" keyframe="0" outside="0" occluded="0" xtl="1764.27" ytl="1935.28" xbr="1811.80" ybr="1978.90" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="37" keyframe="0" outside="0" occluded="0" xtl="1764.27" ytl="1935.28" xbr="1811.80" ybr="1978.90" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="38" keyframe="0" outside="0" occluded="0" xtl="1764.27" ytl="1935.28" xbr="1811.80" ybr="1978.90" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="39" keyframe="0" outside="0" occluded="0" xtl="1764.27" ytl="1935.28" xbr="1811.80" ybr="1978.90" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="40" keyframe="0" outside="0" occluded="0" xtl="1764.27" ytl="1935.28" xbr="1811.80" ybr="1978.90" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="41" keyframe="0" outside="0" occluded="0" xtl="1764.27" ytl="1935.28" xbr="1811.80" ybr="1978.90" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="42" keyframe="0" outside="0" occluded="0" xtl="1764.27" ytl="1935.28" xbr="1811.80" ybr="1978.90" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="43" keyframe="0" outside="0" occluded="0" xtl="1764.27" ytl="1935.28" xbr="1811.80" ybr="1978.90" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="44" keyframe="0" outside="0" occluded="0" xtl="1764.27" ytl="1935.28" xbr="1811.80" ybr="1978.90" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="45" keyframe="0" outside="0" occluded="0" xtl="1764.27" ytl="1935.28" xbr="1811.80" ybr="1978.90" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="46" keyframe="0" outside="0" occluded="0" xtl="1764.27" ytl="1935.28" xbr="1811.80" ybr="1978.90" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="47" keyframe="0" outside="0" occluded="0" xtl="1764.27" ytl="1935.28" xbr="1811.80" ybr="1978.90" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="48" keyframe="0" outside="0" occluded="0" xtl="1764.27" ytl="1935.28" xbr="1811.80" ybr="1978.90" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="49" keyframe="0" outside="0" occluded="0" xtl="1764.27" ytl="1935.28" xbr="1811.80" ybr="1978.90" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="50" keyframe="0" outside="0" occluded="0" xtl="1764.27" ytl="1935.28" xbr="1811.80" ybr="1978.90" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="51" keyframe="0" outside="0" occluded="0" xtl="1764.27" ytl="1935.28" xbr="1811.80" ybr="1978.90" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+  </track>
+  <track id="6" label="baseball" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="1595.53" ytl="1579.38" xbr="1623.08" ybr="1604.18" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="1" keyframe="0" outside="0" occluded="0" xtl="1595.53" ytl="1579.38" xbr="1623.08" ybr="1604.18" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="2" keyframe="0" outside="0" occluded="0" xtl="1595.53" ytl="1579.38" xbr="1623.08" ybr="1604.18" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="3" keyframe="0" outside="0" occluded="0" xtl="1595.53" ytl="1579.38" xbr="1623.08" ybr="1604.18" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="4" keyframe="0" outside="0" occluded="0" xtl="1595.53" ytl="1579.38" xbr="1623.08" ybr="1604.18" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="5" keyframe="0" outside="0" occluded="0" xtl="1595.53" ytl="1579.38" xbr="1623.08" ybr="1604.18" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="6" keyframe="0" outside="0" occluded="0" xtl="1595.53" ytl="1579.38" xbr="1623.08" ybr="1604.18" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="7" keyframe="0" outside="0" occluded="0" xtl="1595.53" ytl="1579.38" xbr="1623.08" ybr="1604.18" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="8" keyframe="0" outside="0" occluded="0" xtl="1595.53" ytl="1579.38" xbr="1623.08" ybr="1604.18" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="9" keyframe="0" outside="0" occluded="0" xtl="1595.53" ytl="1579.38" xbr="1623.08" ybr="1604.18" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="10" keyframe="0" outside="0" occluded="0" xtl="1595.53" ytl="1579.38" xbr="1623.08" ybr="1604.18" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="11" keyframe="0" outside="0" occluded="0" xtl="1595.53" ytl="1579.38" xbr="1623.08" ybr="1604.18" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="12" keyframe="0" outside="0" occluded="0" xtl="1595.53" ytl="1579.38" xbr="1623.08" ybr="1604.18" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="13" keyframe="0" outside="0" occluded="0" xtl="1595.53" ytl="1579.38" xbr="1623.08" ybr="1604.18" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="14" keyframe="0" outside="0" occluded="0" xtl="1595.53" ytl="1579.38" xbr="1623.08" ybr="1604.18" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="15" keyframe="0" outside="0" occluded="0" xtl="1595.53" ytl="1579.38" xbr="1623.08" ybr="1604.18" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="16" keyframe="0" outside="0" occluded="0" xtl="1595.53" ytl="1579.38" xbr="1623.08" ybr="1604.18" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="17" keyframe="0" outside="0" occluded="0" xtl="1595.53" ytl="1579.38" xbr="1623.08" ybr="1604.18" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="18" keyframe="0" outside="0" occluded="0" xtl="1595.53" ytl="1579.38" xbr="1623.08" ybr="1604.18" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="19" keyframe="0" outside="0" occluded="0" xtl="1595.53" ytl="1579.38" xbr="1623.08" ybr="1604.18" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="20" keyframe="0" outside="0" occluded="0" xtl="1595.53" ytl="1579.38" xbr="1623.08" ybr="1604.18" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="21" keyframe="0" outside="0" occluded="0" xtl="1595.53" ytl="1579.38" xbr="1623.08" ybr="1604.18" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="22" keyframe="0" outside="0" occluded="0" xtl="1595.53" ytl="1579.38" xbr="1623.08" ybr="1604.18" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="23" keyframe="0" outside="0" occluded="0" xtl="1595.53" ytl="1579.38" xbr="1623.08" ybr="1604.18" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="24" keyframe="0" outside="0" occluded="0" xtl="1595.53" ytl="1579.38" xbr="1623.08" ybr="1604.18" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="25" keyframe="0" outside="0" occluded="0" xtl="1595.53" ytl="1579.38" xbr="1623.08" ybr="1604.18" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="26" keyframe="0" outside="0" occluded="0" xtl="1595.53" ytl="1579.38" xbr="1623.08" ybr="1604.18" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="27" keyframe="0" outside="0" occluded="0" xtl="1595.53" ytl="1579.38" xbr="1623.08" ybr="1604.18" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="28" keyframe="0" outside="0" occluded="0" xtl="1595.53" ytl="1579.38" xbr="1623.08" ybr="1604.18" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="29" keyframe="0" outside="0" occluded="0" xtl="1595.53" ytl="1579.38" xbr="1623.08" ybr="1604.18" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="30" keyframe="0" outside="0" occluded="0" xtl="1595.53" ytl="1579.38" xbr="1623.08" ybr="1604.18" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="31" keyframe="0" outside="0" occluded="0" xtl="1595.53" ytl="1579.38" xbr="1623.08" ybr="1604.18" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="32" keyframe="0" outside="0" occluded="0" xtl="1595.53" ytl="1579.38" xbr="1623.08" ybr="1604.18" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="33" keyframe="0" outside="0" occluded="0" xtl="1595.53" ytl="1579.38" xbr="1623.08" ybr="1604.18" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="34" keyframe="0" outside="0" occluded="0" xtl="1595.53" ytl="1579.38" xbr="1623.08" ybr="1604.18" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="35" keyframe="0" outside="0" occluded="0" xtl="1595.53" ytl="1579.38" xbr="1623.08" ybr="1604.18" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="36" keyframe="0" outside="0" occluded="0" xtl="1595.53" ytl="1579.38" xbr="1623.08" ybr="1604.18" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="37" keyframe="0" outside="0" occluded="0" xtl="1595.53" ytl="1579.38" xbr="1623.08" ybr="1604.18" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="38" keyframe="0" outside="0" occluded="0" xtl="1595.53" ytl="1579.38" xbr="1623.08" ybr="1604.18" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="39" keyframe="0" outside="0" occluded="0" xtl="1595.53" ytl="1579.38" xbr="1623.08" ybr="1604.18" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="40" keyframe="0" outside="0" occluded="0" xtl="1595.53" ytl="1579.38" xbr="1623.08" ybr="1604.18" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="41" keyframe="0" outside="0" occluded="0" xtl="1595.53" ytl="1579.38" xbr="1623.08" ybr="1604.18" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="42" keyframe="0" outside="0" occluded="0" xtl="1595.53" ytl="1579.38" xbr="1623.08" ybr="1604.18" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="43" keyframe="0" outside="0" occluded="0" xtl="1595.53" ytl="1579.38" xbr="1623.08" ybr="1604.18" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="44" keyframe="0" outside="0" occluded="0" xtl="1595.53" ytl="1579.38" xbr="1623.08" ybr="1604.18" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="45" keyframe="0" outside="0" occluded="0" xtl="1595.53" ytl="1579.38" xbr="1623.08" ybr="1604.18" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="46" keyframe="0" outside="0" occluded="0" xtl="1595.53" ytl="1579.38" xbr="1623.08" ybr="1604.18" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="47" keyframe="0" outside="0" occluded="0" xtl="1595.53" ytl="1579.38" xbr="1623.08" ybr="1604.18" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="48" keyframe="0" outside="0" occluded="0" xtl="1595.53" ytl="1579.38" xbr="1623.08" ybr="1604.18" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="49" keyframe="0" outside="0" occluded="0" xtl="1595.53" ytl="1579.38" xbr="1623.08" ybr="1604.18" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="50" keyframe="0" outside="0" occluded="0" xtl="1595.53" ytl="1579.38" xbr="1623.08" ybr="1604.18" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+    <box frame="51" keyframe="0" outside="0" occluded="0" xtl="1595.53" ytl="1579.38" xbr="1623.08" ybr="1604.18" z_order="0">
+      <attribute name="moving">false</attribute>
+    </box>
+  </track>
+  <track id="7" label="baseball" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="1507.92" ytl="1170.80" xbr="1522.40" ybr="1184.30" z_order="0">
+      <attribute name="moving">true</attribute>
+    </box>
+    <box frame="1" keyframe="1" outside="0" occluded="0" xtl="1519.43" ytl="1141.59" xbr="1533.91" ybr="1155.09" z_order="0">
+      <attribute name="moving">true</attribute>
+    </box>
+    <box frame="2" keyframe="1" outside="0" occluded="0" xtl="1528.81" ytl="1102.16" xbr="1543.29" ybr="1115.66" z_order="0">
+      <attribute name="moving">true</attribute>
+    </box>
+    <box frame="3" keyframe="1" outside="0" occluded="0" xtl="1532.57" ytl="1072.75" xbr="1547.05" ybr="1086.25" z_order="0">
+      <attribute name="moving">true</attribute>
+    </box>
+    <box frame="4" keyframe="1" outside="0" occluded="0" xtl="1540.33" ytl="1043.19" xbr="1554.81" ybr="1056.69" z_order="0">
+      <attribute name="moving">true</attribute>
+    </box>
+    <box frame="5" keyframe="1" outside="0" occluded="0" xtl="1552.93" ytl="1014.72" xbr="1567.41" ybr="1028.22" z_order="0">
+      <attribute name="moving">true</attribute>
+    </box>
+    <box frame="6" keyframe="1" outside="0" occluded="1" xtl="1552.93" ytl="1014.72" xbr="1567.41" ybr="1028.22" z_order="0">
+      <attribute name="moving">true</attribute>
+    </box>
+    <box frame="7" keyframe="1" outside="0" occluded="1" xtl="1594.38" ytl="953.02" xbr="1608.86" ybr="966.52" z_order="0">
+      <attribute name="moving">true</attribute>
+    </box>
+    <box frame="8" keyframe="1" outside="0" occluded="0" xtl="1594.38" ytl="953.02" xbr="1608.86" ybr="966.52" z_order="0">
+      <attribute name="moving">true</attribute>
+    </box>
+    <box frame="9" keyframe="1" outside="0" occluded="0" xtl="1646.66" ytl="949.72" xbr="1661.14" ybr="963.22" z_order="0">
+      <attribute name="moving">true</attribute>
+    </box>
+    <box frame="10" keyframe="1" outside="0" occluded="1" xtl="1632.06" ytl="953.96" xbr="1646.54" ybr="967.46" z_order="0">
+      <attribute name="moving">true</attribute>
+    </box>
+    <box frame="11" keyframe="0" outside="0" occluded="1" xtl="1609.97" ytl="933.42" xbr="1626.36" ybr="947.74" z_order="0">
+      <attribute name="moving">true</attribute>
+    </box>
+    <box frame="12" keyframe="0" outside="0" occluded="1" xtl="1587.87" ytl="912.87" xbr="1606.18" ybr="928.02" z_order="0">
+      <attribute name="moving">true</attribute>
+    </box>
+    <box frame="13" keyframe="1" outside="0" occluded="0" xtl="1565.77" ytl="892.33" xbr="1586.00" ybr="908.30" z_order="0">
+      <attribute name="moving">true</attribute>
+    </box>
+    <box frame="14" keyframe="1" outside="0" occluded="0" xtl="1564.31" ytl="882.80" xbr="1587.70" ybr="902.40" z_order="0">
+      <attribute name="moving">true</attribute>
+    </box>
+    <box frame="15" keyframe="1" outside="0" occluded="0" xtl="1565.04" ytl="878.16" xbr="1588.43" ybr="897.76" z_order="0">
+      <attribute name="moving">true</attribute>
+    </box>
+    <box frame="16" keyframe="0" outside="0" occluded="0" xtl="1565.04" ytl="880.06" xbr="1589.50" ybr="901.34" z_order="0">
+      <attribute name="moving">true</attribute>
+    </box>
+    <box frame="17" keyframe="0" outside="0" occluded="0" xtl="1565.04" ytl="881.96" xbr="1590.57" ybr="904.93" z_order="0">
+      <attribute name="moving">true</attribute>
+    </box>
+    <box frame="18" keyframe="0" outside="0" occluded="0" xtl="1565.04" ytl="883.86" xbr="1591.63" ybr="908.51" z_order="0">
+      <attribute name="moving">true</attribute>
+    </box>
+    <box frame="19" keyframe="1" outside="0" occluded="0" xtl="1565.04" ytl="885.75" xbr="1592.70" ybr="912.10" z_order="0">
+      <attribute name="moving">true</attribute>
+    </box>
+    <box frame="20" keyframe="1" outside="0" occluded="0" xtl="1565.88" ytl="901.79" xbr="1593.54" ybr="928.14" z_order="0">
+      <attribute name="moving">true</attribute>
+    </box>
+    <box frame="21" keyframe="1" outside="0" occluded="0" xtl="1562.51" ytl="922.90" xbr="1590.17" ybr="949.24" z_order="0">
+      <attribute name="moving">true</attribute>
+    </box>
+    <box frame="22" keyframe="1" outside="0" occluded="0" xtl="1561.66" ytl="954.13" xbr="1589.32" ybr="980.48" z_order="0">
+      <attribute name="moving">true</attribute>
+    </box>
+    <box frame="23" keyframe="1" outside="0" occluded="0" xtl="1558.30" ytl="987.90" xbr="1591.00" ybr="1020.15" z_order="0">
+      <attribute name="moving">true</attribute>
+    </box>
+    <box frame="24" keyframe="1" outside="0" occluded="0" xtl="1553.01" ytl="1038.10" xbr="1587.70" ybr="1075.20" z_order="0">
+      <attribute name="moving">true</attribute>
+    </box>
+    <box frame="25" keyframe="1" outside="0" occluded="0" xtl="1545.68" ytl="1095.90" xbr="1591.00" ybr="1151.33" z_order="0">
+      <attribute name="moving">true</attribute>
+    </box>
+    <box frame="26" keyframe="1" outside="0" occluded="0" xtl="1543.65" ytl="1176.10" xbr="1588.96" ybr="1242.51" z_order="0">
+      <attribute name="moving">true</attribute>
+    </box>
+    <box frame="27" keyframe="1" outside="0" occluded="0" xtl="1528.80" ytl="1285.10" xbr="1586.20" ybr="1357.28" z_order="0">
+      <attribute name="moving">true</attribute>
+    </box>
+    <box frame="28" keyframe="1" outside="0" occluded="0" xtl="1523.88" ytl="1420.90" xbr="1581.28" ybr="1498.68" z_order="0">
+      <attribute name="moving">true</attribute>
+    </box>
+    <box frame="29" keyframe="1" outside="0" occluded="0" xtl="1526.66" ytl="1457.41" xbr="1584.06" ybr="1637.99" rotation="3.90" z_order="0">
+      <attribute name="moving">true</attribute>
+    </box>
+    <box frame="30" keyframe="1" outside="0" occluded="0" xtl="1564.73" ytl="854.18" xbr="1622.13" ybr="912.07" rotation="3.90" z_order="0">
+      <attribute name="moving">true</attribute>
+    </box>
+    <box frame="31" keyframe="1" outside="0" occluded="0" xtl="1605.50" ytl="362.67" xbr="1648.91" ybr="448.65" rotation="3.90" z_order="0">
+      <attribute name="moving">true</attribute>
+    </box>
+    <box frame="32" keyframe="1" outside="0" occluded="0" xtl="1631.61" ytl="30.41" xbr="1668.69" ybr="86.38" rotation="3.90" z_order="0">
+      <attribute name="moving">true</attribute>
+    </box>
+    <box frame="33" keyframe="1" outside="1" occluded="0" xtl="1631.61" ytl="30.41" xbr="1668.69" ybr="86.38" rotation="3.90" z_order="0">
+      <attribute name="moving">true</attribute>
+    </box>
+  </track>
+</annotations>
